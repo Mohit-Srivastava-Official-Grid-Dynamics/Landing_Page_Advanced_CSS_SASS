@@ -1,0 +1,26 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "homepage": "https://github.com/Mohit-Srivastava-Official-Grid-Dynamics/Project_1#readme",
+  "bugs": {
+    "url": "https://github.com/Mohit-Srivastava-Official-Grid-Dynamics/Project_1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-Srivastava-Official-Grid-Dynamics/Project_1.git"
+  },
+  "license": "ISC",
+  "author": "Mohit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
