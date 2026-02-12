@@ -1,4 +1,4 @@
-# Project_1 — Natours Landing Page
+# Landing Page
 
 
 **Description**
